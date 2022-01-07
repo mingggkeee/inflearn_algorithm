@@ -13,3 +13,4 @@ for i in range(3):
             cnt += 1
 
 print(cnt)
+##  격자판
